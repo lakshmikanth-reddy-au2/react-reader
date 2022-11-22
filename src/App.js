@@ -16,7 +16,7 @@ import {
 
 const storage = global.localStorage || null
 
-const DEMO_URL = '/files/alice.epub'
+const DEMO_URL = 'http://files.infogridpacific.com/epub3/famouspaintings.epub'
 const DEMO_NAME = 'Alice in wonderland'
 
 const GlobalStyle = createGlobalStyle`
